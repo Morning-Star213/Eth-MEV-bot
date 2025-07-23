@@ -81,11 +81,3 @@ MIT License. See the [LICENSE](LICENSE) file.
 ## Disclaimer
 
 This software is for educational purposes only. Use at your own risk.  The creators are not liable for any financial losses.  Test thoroughly with small amounts before using significant capital.
-
-## Acknowledgements
-
-* 1inch API
-* Paraswap API
-* Kyberswap API
-* Ethers.js
-* Web3.js
